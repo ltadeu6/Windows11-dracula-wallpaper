@@ -1,0 +1,12 @@
+#+title: Windows 11 Dracula Wallpapers
+
+This is a minimalist wallpaper for windows 11 inspired on DraculaTheme
+
+* Images
+
+[[file:./4k/Windows_11_classic.png]]
+[[file:./4k/Windows_11_blue.png]]
+[[file:./4k/Windows_11_purple.png]]
+[[file:./4k/Windows_11_pink.png]]
+[[file:./4k/Windows_11_green.png]]
+[[file:./4k/Windows_11_red.png]]
